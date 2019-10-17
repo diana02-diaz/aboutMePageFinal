@@ -1,2 +1,0 @@
-# aboutMePageFinal
-Created with CodeSandbox
